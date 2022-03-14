@@ -1,6 +1,5 @@
 package main
 
 func main() {
-	println("Hello World!")
-	println("Hellow Guys!")
+	// this is main
 }
